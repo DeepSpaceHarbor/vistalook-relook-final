@@ -2244,7 +2244,7 @@ font-size: 16px !important;
 
 /* Zona del Menu !!*/
 #panelLeft .applet-box:first-child {
-background: transparent url(WindowsStartOrb.png) left center, rgba(255,255,255, 0.0);
+background: transparent url(Transparent.gif) left center, rgba(255,255,255, 0.0);
 background-position: left center !important;
 border-radius: 25px;
 height: 26px !important;
@@ -2253,7 +2253,7 @@ box-shadow: 0 0 0 #39f;
 }
 
 #panelLeft .applet-box:first-child:hover {
-background: transparent url(WindowsStartOrb.png) left center, rgba(255,255,255, 0.0);
+background: transparent url(Transparent.gif) left center, rgba(255,255,255, 0.0);
 background-position: left center !important;
 border-radius: 25px;
 height: 26px !important;
@@ -2263,7 +2263,7 @@ box-shadow: 0 0 8px #FFF;
 }
 
 #panelLeft .applet-box:first-child:active {
-background: transparent url(WindowsStartOrb.png) left center, rgba(255,255,255, 0.0);
+background: transparent url(Transparent.gif) left center, rgba(255,255,255, 0.0);
 background-position: left center !important;
 border-radius: 25px;
 height: 26px !important;
