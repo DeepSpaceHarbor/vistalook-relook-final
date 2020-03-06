@@ -6,4 +6,4 @@ Because I wanted changes that don't fit into the original theme.
 
 # Changelog
 
-- [x] Removed the menu icon/orb. You can replace the orb with a custom icon of your choice.
+- [x] Removed the menu icon/orb. You can replace the vista logo orb with a custom icon of your choice.
