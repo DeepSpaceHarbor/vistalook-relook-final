@@ -1,9 +1,5 @@
-# What
-Fork from [Vistalooks Relook Final](https://github.com/sdanielch/vistalook-relook-final) theme.
+Fork from [Vistalooks Relook Final](https://github.com/sdanielch/vistalook-relook-final) theme, because I wanted changes that don't fit into the original project.
 
-# Why
-Because I wanted changes that don't fit into the original theme.
+#### Changelog
 
-# Changelog
-
-- [x] Removed the menu icon/orb. You can replace the vista logo orb with a custom icon of your choice.
+- [x] Removed the menu icon/orb. This allows for custom start menu icons to be used.
